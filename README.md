@@ -1,11 +1,19 @@
 # DocMind: Chat with Your PDFs, Fully Offline
 
 Ask questions about any PDF and get answers with **page citations**, running entirely on your own laptop. No cloud, no API keys, no data leaves your machine.
-<!--
-![DocMind screenshot](docmind_img)
 
-**Demo video:** [Watch here](docmind_vid)
--->
+**DocMind screenshot**(docmind_img)
+
+
+
+<img width="1600" height="1204" alt="docmind_img" src="https://github.com/user-attachments/assets/bede0e04-3b25-43e5-83e1-dff8f89149d6" />
+
+
+**Demo video:** (docmind_vid)
+
+https://github.com/user-attachments/assets/21624b2d-91c3-42be-a1a3-9d11ce431840
+
+
 ## The Problem
 
 Long PDFs such as research papers, contracts, notes, and manuals are slow to search through. Cloud AI tools can answer questions about them, but that means uploading private documents to someone else's servers, needing internet, and often paying for API usage.
